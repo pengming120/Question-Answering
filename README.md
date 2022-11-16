@@ -7,7 +7,7 @@ The **SearchQA** is a retrieval-based question-answer task challenge. This task 
 ---
 
 **Question:** born poland , first prime minister israel\
-**Answer:** ben gurion
+**Answer:** ben gurion\
 **Snippets:**
 
 - \<s> shimon peres' family 5 fast facts need know heavy com sep 27 , 2016 six decades 
