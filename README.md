@@ -26,3 +26,6 @@ peres told rabbi menachem mendel schneerson born result blessing parents \</s>
 
 ---
 It is worth noting that not all the search result snippets in this task contain answers. Therefore, you need to consider how to employ a model to pick out the snippets that can answer the question and retrieve the most appropriate answer spans. Each question has approximately 40 corresponding snippets. There is no question that cannot be answered. All text in the data is in lowercase.
+
+---
+Dataset: https://drive.google.com/drive/folders/1xfkW8RSbwrwBnJ6t7c2RZW-Eh4JvE5Bd?usp=sharing
